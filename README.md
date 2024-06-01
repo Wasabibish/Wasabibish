@@ -9,31 +9,30 @@
   <img src="https://komarev.com/ghpvc/?username=Wasabibish&label=Profile%20views&color=0e75b6&style=flat" alt="Wasabibish" />
 </p>
 
-### About Me
+## 🌟 About Me
 
 - 🌱 I’m currently learning **Large Language Models (LLMs)** 💫
 - 📫 How to reach me: **ikram.djeghali@gmail.com** or on Discord **Ikram Djeghali#8609**
 - ⚡ Fun fact: I love writing ✍🏻
 
-### Current Projects
+## 🚀 Current Projects
 
-- 🔭 I’m currently working on **Natural Language Processing (NLP) projects**:
-  - [Legal Assistant](#): a legal chatbot (Algerian and Africain Law).
+- 🔭 Working on **Natural Language Processing (NLP) projects**:
+  - [Legal Assistant](#): A legal chatbot (Algerian and African Law).
   - [Link Detection and Classification in Legal Domain](#): Using NLP and Graph Neural Networks (GNN).
 
-### Learning Goals
+## 🎯 Learning Goals
 
-- 🌱 My current learning goals include mastering **Large Language Models (LLMs)** and exploring their applications in various NLP tasks.
+- 🌱 Mastering **Large Language Models (LLMs)** and exploring their applications in various NLP tasks.
 
-### Collaboration Interests
+## 🤝 Collaboration Interests
 
-- 👯 I’m looking to collaborate on projects related to:
+- 👯 Looking to collaborate on projects related to:
   - NLP and machine learning
   - Data analysis and visualization
   - AI-driven applications
 
-
-### Skills and Expertise
+## 💼 Skills and Expertise
 
 - **Programming Languages:** Java, Python
 - **Frameworks and Tools:** TensorFlow, Jupyter, Visual Studio Code
@@ -41,43 +40,67 @@
 - **Version Control:** Git, GitHub
 - **Other Tools:** Canva, LaTeX
 
-### Experience
+## 📚 Experience
 
-- **Academic Background:** I have a master's degree in Intelligent Informatic Systems.
-- **Professional Background:** I have experience teaching AI and am currently a full-time ML Engineer in legal tech.
-  
+- **Academic Background:** Master's degree in Intelligent Informatic Systems.
+- **Professional Background:** Experience teaching AI and currently a full-time ML Engineer in legal tech.
 
-### Personal Interests
+## 🎨 Personal Interests
 
-- Besides my passion for AI and data science, I enjoy writing and exploring creative outlets through storytelling and content creation.
+- Besides AI and data science, I enjoy writing and exploring creative outlets through storytelling and content creation.
 
-### Contact Information
+## 📫 Contact Information
 
-- 📫 Feel free to reach out to me at **ikram.djeghali@gmail.com** or on Discord **Ikram Djeghali#8609**.
+- Feel free to reach out at **ikram.djeghali@gmail.com** or on Discord **Ikram Djeghali#8609**.
 
+## 📊 GitHub Stats
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wasabibish&show_icons=true&locale=en&layout=compact" alt="Wasabibish" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wasabibish&show_icons=true&locale=en" alt="Wasabibish" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wasabibish&" alt="Wasabibish" />
+</p>
 
-### Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ikram-djeghali-5b101b19b/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ikram Djeghali" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/ikram-djeghali-5b101b19b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ikram Djeghali" height="30" width="40" />
   </a>
 </p>
 
-### Languages and Tools
+## 🛠 Languages and Tools
 
 <p align="center">
-  <img alt="Java" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" width="30" style="padding-right:10px;" />
-  <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="30" style="padding-right:10px;" />
-  <img alt="TensorFlow" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" width="30" style="padding-right:10px;" />
-  <img alt="C" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-line.svg" width="30" style="padding-right:10px;" />
-  <img alt="Jupyter" src="https://github.com/dev
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+</p>
